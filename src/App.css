@@ -1,0 +1,14 @@
+#root {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  margin: 1rem;
+}
+.tableProject{
+  height: 2rem;
+}
+.tableProject:hover{
+  background-color: aliceblue;
+  cursor: pointer;
+}
+
